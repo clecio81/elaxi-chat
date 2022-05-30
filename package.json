@@ -1,0 +1,24 @@
+{
+  "name": "Selena-agent",
+  "version": "0.0.1",
+  "description": "selena agent Dialogflow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "17.9.0"
+  },
+  "author": "Google Inc.",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "0.26.1",
+    "body-parser": "^1.20.0",
+    "dialogflow": "^1.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.15.3",
+    "passport": "^0.5.3",
+    "passport-oauth2": "^1.6.1",
+    "socket.io": "^2.0.1"
+  }
+}
