@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "support-hujo",
+  "private_key_id": "5714d5e3510a995cca2052f6041ef37312d46bb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU8+TMxCTAk82g\nGWzpMnlmmTt51WzBW8js87F4hXmUk9EAi8/kyCCw2Ry2whLvH++klQaWOfW7JIto\n0fq5Myld3Kl3l42k/0p9Dv06ircATSQC1UC+fKUZJZZav8lcqEuoN41DWbAvBpby\nRgq3msWTKlPJNjow1CjQqGm44nZRBBe6biOUzy7ZVKdb76iCUmGwN/gk8Fi0O6qT\nTn0LN8LT7KMND7P0bEMnawPW2CJijEqrELdbJhRqzKWskZ+roc5ILGuc1BnICrAb\n1/+fWGX9kfgs1ktNpkySXxqiq++n+J+HbHig8aLRilst+q5JOFf38t0MuINzEH70\nh+YECdQ/AgMBAAECggEAMZBgmO4wFahxDAnO6Qnn6qLQjn9HtEteHRRtIn2Cejvb\nQdLIvNl9jlvCDKFoEcLvnnFXGqD72iZb0jZJMlC/mIqS4PRjsdr/ZdMWykjd5hKO\nRqCG1K8jKBKxB4cq4UeEcG8ZkGrwEEnq2RHHTcuWn7WS0bqu2Y2PwFzqWm9PFXS/\nIudw6E/xQg6k/g3iKLTF+OaYvlb8hiUbTK0+XnRgOJW4l9xHETtZ1/yJ7IYkI9X+\nSrbA1rwU9MRIHv0AbpwYnfd5z7tTrnOhfVqI4/M/HnN2vd6wA76WHgwb9fUl7R0k\ntPEp3hayFqY0bu9SIy2PuoMADG3kBjCngIf2jB4CfQKBgQDyhoywIZXTXe2f8dBO\n/vFpk8wuqUAqw/BFa5ddTUycbXCXFbPMLvK1MNTecGi1sQnmlp6IFg8098N0dk3w\n2N5kSV9cf7T22k6LLJ9aPp/gCsPo0gRsbt8rU6rVX4OYjKWbXoAn56AxrbWOV/qS\ncbQ0dGbK5FPd9vikHvJ8SpB0NQKBgQDgyLpkQdetzYYCddBdePUpDknf328uWP5H\nLQbEYU5AOMBzjuMEtIZ8DvdBFSuzyWXS9j6EZuq4zPJvsvXT504n08A/uOqMWuDO\ny7mJHY2D+0VEQfcfWg5RQkq9G93eFHNRdgjxJhAPiE5s5trOqB4XT7V7Z8Z5uuJH\nuDJ3oL5NIwKBgQC8kEaUrxg5pd8aq72lnez/hG2NngSI+501rGicn3xAZ4rRvYr0\n50/H9vabGFUhZ0vmYBdUgapDKZxrUYxaBZQr7yxY0+ZUw/mrlf80AFr3rAcUXy4X\nTMDxg/TgP4omsrwUKA6GeD4CQihWSytEb2mIGzTM7WgTvXEm0fUBFExqPQKBgGOA\nNxG+G4yx10orgIp/ynXb/1N8AikP967l/YLcV9kRxg7hBxjEGGu97DEBABFbaxlR\nKydMr0YSYpaTL0IXt37lusn6PsjWSYEAqSZK0KPFjEnEsXFNWd0abR78wN9XShyb\nFSY55Q4bFiwanGyx+m/zNrBjpXWpBhUdMinGG7blAoGAI7sJdNgsSMS4g4EIgUqM\n3qperpt/fwCSdGArfKZuPa5LgG0eZdPuIxfluIAP/cCbHROWw8SrSpG9KGI9mwEn\n6uI3luDydHDUlWp/1SYgzazc3oW0axCDC1is+pZNh8fjI4BzO7BdHwtvoLBKLaGY\nbCG6a+9G34sX+B6D8DsPImI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "suporte-hujo@support-hujo.iam.gserviceaccount.com",
+  "client_id": "105773306219119067025",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suporte-hujo%40support-hujo.iam.gserviceaccount.com"
+}
