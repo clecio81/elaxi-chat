@@ -52,19 +52,17 @@ const messageRouter = new MessageRouter({
   operatorRoom: io.of('/operator')
 });
 
-// Serve static html files for the customer and operator clients
-app.get("/up", (req, res) =>{
-	
-});
-app.get("/user", (req, res) =>{
-axios.get('https://elaxi-api.web.app/auth')
+
+app.get('/', auth.user, (req, res) => {
+	axios.get('https://elaxi-api.web.app/auth')
   .then(function (response){
-  	res.send(response.data.displayName)
-}).catch(function (error) {
-    // handle error
-    res.send(error);
-  })
+ 
+  res.render('customer.ejs',{
+  user: response.data.displayName
+  });
+  });
 });
+
 
 app.get('/customer', auth.user, (req, res) => {
 	axios.get('https://elaxi-api.web.app/auth')
