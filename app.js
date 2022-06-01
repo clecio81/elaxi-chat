@@ -75,7 +75,7 @@ app.get('/customer', auth.user, (req, res) => {
 });
 
 app.get('/operator', auth.user, (req, res) => {
-  res.sendFile(`${__dirname}/static/operator.html`);
+  res.sendFile(`${__dirname}/views/operator.html`);
 });
 
 // Begin responding to websocket and http requests
