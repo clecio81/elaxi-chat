@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "0.26.1",
     "body-parser": "^1.20.0",
-    "dialogflow": "^1.2.0",
+    "dialogflow": "^4.0.3",
     "ejs": "^3.1.8",
     "express": "^4.15.3",
     "passport": "^0.5.3",
