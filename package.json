@@ -19,6 +19,6 @@
     "express": "^4.15.3",
     "passport": "^0.5.3",
     "passport-oauth2": "^1.6.1",
-    "socket.io": "^2.0.1"
+    "socket.io": "^3.0.5"
   }
 }
